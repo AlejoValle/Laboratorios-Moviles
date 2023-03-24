@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="cardH1">Weight</string>
+    <string name="kilogramos">Kg</string>
+    <string name="hint_data">70</string>
+    <string name="card2H">Height</string>
+    <string name="buttontext">calulate</string>
+    <string name="heightcm">Cm</string>
+</resources>
