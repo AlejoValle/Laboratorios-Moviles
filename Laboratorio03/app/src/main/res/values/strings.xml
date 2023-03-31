@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Monedas</string>
+    <string name="Money">Cantidad De Dinero</string>
+    <string name="cash_text">Cantidad de Dinero</string>
+    <string name="total_cash">0</string>
+    <string name="dollar">$1.00</string>
+    <string name="quarer">$0.25</string>
+    <string name="ten">$0.10</string>
+    <string name="five">$0.05</string>
+</resources>
