@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var quarerCoin: ImageView
     private lateinit var dollarCoin: ImageView
     private lateinit var cashTextView: TextView
-    private var cash = 0.0
+    private var cash = 0.00
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
