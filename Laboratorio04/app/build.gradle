@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ramirez.laboratorio04'
+    namespace 'com.example.laboratorio_04'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ramirez.laboratorio04"
+        applicationId "com.example.laboratorio_04"
         minSdk 24
         targetSdk 33
         versionCode 1
