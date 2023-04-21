@@ -1,4 +1,4 @@
-package com.ramirez.laboratorio05
+package com.example.laboratorio_05
 
 import org.junit.Test
 

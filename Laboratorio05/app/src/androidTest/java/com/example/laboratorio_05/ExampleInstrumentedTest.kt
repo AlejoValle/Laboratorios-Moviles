@@ -1,4 +1,4 @@
-package com.ramirez.laboratorio05
+package com.example.laboratorio_05
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.ramirez.laboratorio05", appContext.packageName)
+        assertEquals("com.example.laboratorio_05", appContext.packageName)
     }
 }
